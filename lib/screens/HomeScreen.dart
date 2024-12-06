@@ -26,7 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Hand Sign Detection"),
+        title: const Text("Hand Sign Detection(numbers)"),
         actions: [
           IconButton(
               icon: Icon(Icons.photo),
